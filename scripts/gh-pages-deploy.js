@@ -3,7 +3,7 @@ const execa = require("execa");
 
   (async () => {
     try {
-      await execa("git", ["checkout", "--orphan", "master"]);
+      await execa("git", ["checkout", "", "master"]);
       console.log("Building...");
       await execa("npm", ["run", "build"]);
       // Understand if it's dist or build folder
@@ -14,7 +14,7 @@ const execa = require("execa");
       await execa("git", ["push", "origin", "HEAD:master", "--force"]);
       await execa("rm", ["-r", folderName]);
       await execa("git", ["checkout", "-f", "master"]);
-      await execa("git", ["branch", "-D", "master"]);
+      //await execa("git", ["branch", "-D", "master"]);
       console.log("Successfully deployed");
     } catch (e) {
       console.log(e.message);
