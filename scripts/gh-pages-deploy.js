@@ -14,7 +14,7 @@ const execa = require("execa");
       console.log("Pushing to master...");
       await execa("git", ["push", "origin", "HEAD:master", "--force"]);
       await execa("rm", ["-r", folderName]);
-      await execa("git", ["checkout", "-f", "master"]);
+      await execa("git", ["checkout", "-f", "development"]);
       //await execa("git", ["branch", "-D", "master"]);
       console.log("Successfully deployed");
     } catch (e) {
