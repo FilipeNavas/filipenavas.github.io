@@ -1,5 +1,4 @@
 <h1>Welcome to my personal website repository. </h1>
-![Deploy to github pages](https://github.com/FilipeNavas/filipenavas.github.io/workflows/Deploy%20to%20github%20pages/badge.svg)
 <p>This website was built using VueJs and the following tools/articles:</p>
 <p>Access it here: <a href="filipenavas.github.io">filipenavas.github.io</a></p>
 <ul>
