@@ -1,4 +1,5 @@
-<h1>Welcome to my personal website repository.</h1>
+<h1>Welcome to my personal website repository. </h1>
+![Deploy to github pages](https://github.com/FilipeNavas/filipenavas.github.io/workflows/Deploy%20to%20github%20pages/badge.svg)
 <p>This website was built using VueJs and the following tools/articles:</p>
 <p>Access it here: <a href="filipenavas.github.io">filipenavas.github.io</a></p>
 <ul>
@@ -7,5 +8,5 @@
   <li><a href="https://dev.to/rolanddoda/deploy-to-github-pages-like-a-pro-with-github-actions-4hdg">Continuos deployment - how to deploy to Github Pages</a></li>
 </ul>
 
-<p>Please, follow my profile and feel free to connect on <a href="https://www.linkedin.com/in/filipenavas/">LinkedIn</a> </p>
+<p>Feel free to follow my profile and to connect on <a href="https://www.linkedin.com/in/filipenavas/">LinkedIn</a> </p>
 
