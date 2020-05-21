@@ -3,6 +3,7 @@ const execa = require("execa");
 
   (async () => {
     try {
+      await execa("git", ["fetch"]);
       await execa("git", ["checkout", "-f", "master"]);
       console.log("Building...");
       await execa("npm", ["run", "build"]);
