@@ -1,6 +1,8 @@
 const webpack = require('webpack');
 
 module.exports = {
+  publicPath: '/filipenavas.github.io/',
+
   configureWebpack: {
     // Set up all the aliases we use in our app.
     plugins: [
@@ -10,11 +12,11 @@ module.exports = {
     ]
   },
   pwa: {
-    name: 'Vue Argon Design',
-    themeColor: '#172b4d',
-    msTileColor: '#172b4d',
+    name: 'Filipe Navas | Software Engineer, AWS Solutions Architect, Founder',
+    themeColor: '#76eea7',
+    msTileColor: '#76eea7',
     appleMobileWebAppCapable: 'yes',
-    appleMobileWebAppStatusBarStyle: '#172b4d'
+    appleMobileWebAppStatusBarStyle: '#76eea7'
   },
   css: {
     // Enable CSS source maps.
