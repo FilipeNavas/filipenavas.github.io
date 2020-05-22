@@ -21,6 +21,8 @@ import router from "./router";
 import Argon from "./plugins/argon-kit";
 import './registerServiceWorker'
 
+import './plugins/gh-pages';
+
 Vue.config.productionTip = false;
 Vue.use(Argon);
 new Vue({
