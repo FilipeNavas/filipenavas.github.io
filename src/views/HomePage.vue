@@ -126,9 +126,7 @@ export default {
   },
 methods: {
     getColor(title) {
- 
-      let n = parseInt((Math.floor(Math.random() * Math.floor(9))).toString().slice(0, 1));
-      console.log('char at: ' + n + " title: " + title)
+      let n = parseInt((Math.floor(Math.random() * Math.floor(9))).toString().slice(0, 1));      
       switch (n) {
         case 1 :
         case 2 :
