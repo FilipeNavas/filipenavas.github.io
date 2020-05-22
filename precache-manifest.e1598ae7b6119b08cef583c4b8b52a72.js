@@ -16,16 +16,16 @@ self.__precacheManifest = [
     "url": "/filipenavas.github.io/fonts/nucleo-icons.c1733565.eot"
   },
   {
-    "revision": "2569aaea6eaaf8cd210db7f2fa016743",
-    "url": "/filipenavas.github.io/fonts/nucleo-icons.2569aaea.woff"
-  },
-  {
     "revision": "426439788ec5ba772cdf94057f6f4659",
     "url": "/filipenavas.github.io/fonts/nucleo-icons.42643978.woff2"
   },
   {
     "revision": "f82ec6ba2dc4181db2af35c499462840",
     "url": "/filipenavas.github.io/fonts/nucleo-icons.f82ec6ba.ttf"
+  },
+  {
+    "revision": "2569aaea6eaaf8cd210db7f2fa016743",
+    "url": "/filipenavas.github.io/fonts/nucleo-icons.2569aaea.woff"
   },
   {
     "revision": "46abbc4a676739dbd61f8a305cb63fd8",
@@ -60,12 +60,12 @@ self.__precacheManifest = [
     "url": "/filipenavas.github.io/favicon.png"
   },
   {
-    "revision": "c85c75275c0a0a617f9e5accc2700908",
-    "url": "/filipenavas.github.io/img/brand/creativetim-white-slim.png"
-  },
-  {
     "revision": "185288d13ed8e9d745bd279ea34667bf",
     "url": "/filipenavas.github.io/img/brand/blue.png"
+  },
+  {
+    "revision": "c85c75275c0a0a617f9e5accc2700908",
+    "url": "/filipenavas.github.io/img/brand/creativetim-white-slim.png"
   },
   {
     "revision": "b9949387c6179e2dc4c675134a7b7935",
@@ -92,20 +92,20 @@ self.__precacheManifest = [
     "url": "/filipenavas.github.io/img/theme/filipe-profile.jpg"
   },
   {
-    "revision": "fd4a34d026fb9e0f4867188d47b11ba8",
-    "url": "/filipenavas.github.io/img/theme/img-1-1200x1000.jpg"
-  },
-  {
     "revision": "dc49ad52655e1d9d0552c026db3ef688",
     "url": "/filipenavas.github.io/img/theme/landing.jpg"
   },
   {
-    "revision": "7789b5bfa57722dd8916b1b9ff1b1d37",
-    "url": "/filipenavas.github.io/img/theme/img-2-1200x1000.jpg"
+    "revision": "fd4a34d026fb9e0f4867188d47b11ba8",
+    "url": "/filipenavas.github.io/img/theme/img-1-1200x1000.jpg"
   },
   {
     "revision": "ae42fa0ab85745a5a949e0e3c4ff12fc",
     "url": "/filipenavas.github.io/img/theme/lolaguide-logo.png"
+  },
+  {
+    "revision": "7789b5bfa57722dd8916b1b9ff1b1d37",
+    "url": "/filipenavas.github.io/img/theme/img-2-1200x1000.jpg"
   },
   {
     "revision": "20d702b83a06bdb2ea71c4c0cb9a7a56",
