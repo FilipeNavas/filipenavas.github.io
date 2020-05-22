@@ -14,8 +14,7 @@
                     <br />From 2015-2017 in Sao Paulo, Brazil
                 </h6>
             </div>
-          <div class="col-md-6 order-md-2">
-            <!-- <img src="img/theme/promo-1.png" class="img-fluid floating"> -->
+          <!-- <div class="col-md-6 order-md-2">
             <div class="embed-responsive embed-responsive-16by9">
               <iframe
                 class="embed-responsive-item"
@@ -23,10 +22,10 @@
                 allowfullscreen
               ></iframe>
             </div>
-          </div>
-          <div class="col-md-6 order-md-1">
+          </div> -->
+          <div class="col-md-12 order-md-1">
             <div class="pr-md-5 text-justify">
-              <p>At Lolaguide I was the lead software developer and a co-founder. The team was just me and my partner. In the video on the right I showcase the both web-apps developed by me.</p>
+              <p>At Lolaguide I was the lead software developer, and also a co-founder. The team was just me and my partner. In the video on the right I showcase the web-apps developed by me.</p>
               <ul class="list-unstyled mt-5">
                 <li class="py-2">
                   <div class="d-flex align-items-center">
@@ -37,7 +36,7 @@
                 <li class="py-2">
                   <div class="d-flex align-items-center">
                     <badge type="success" circle class="mr-3" icon="fa fa-codepen"></badge>
-                    <h6 class="mb-0">Second used VueJs, NodeJs, AWS</h6>
+                    <h6 class="mb-0">Second built with VueJs, NodeJs, AWS</h6>
                   </div>
                 </li>
                 <li class="py-2">
@@ -45,7 +44,7 @@
                     <badge type="success" circle class="mr-3" icon="ni ni-satisfied"></badge>
                     <h6
                       class="mb-0"
-                    >Other duties included talking to the customer, business related tasks such as accouting, legal and banking</h6>
+                    >Other duties included talking to the customer, business related tasks such as accounting, legal and banking</h6>
                   </div>
                 </li>
               </ul>

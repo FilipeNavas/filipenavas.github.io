@@ -22,7 +22,7 @@
 
         <ShowcaseAachi />
 
-        <ShowcasePersonal />
+        <!-- <ShowcasePersonal /> -->
         
       
     </div>

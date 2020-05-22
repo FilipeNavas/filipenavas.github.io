@@ -14,8 +14,7 @@
                 </h6>
             </div>            
 
-          <div class="col-md-6 order-md-1 ">
-            <!-- <img src="img/theme/promo-1.png" class="img-fluid floating"> -->
+          <!-- <div class="col-md-6 order-md-1 ">          
             <div class="embed-responsive embed-responsive-16by9">
               <iframe
                 class="embed-responsive-item"
@@ -23,17 +22,17 @@
                 allowfullscreen
               ></iframe>
             </div>
-          </div>
-          <div class="col-md-6 order-md-2">
+          </div> -->
+          <div class="col-md-12 order-md-2">
             <div class="pl-md-5 text-justify">
               <p>At Pride Human Resources, a Brazilian HR company, I was responsible for bringing to life a recruting software to make it easier for local companies and candidates to find the perfect match.
-                  I was hired as a contractor to develop a web-application capable of ranking candiates to job postings.
+                  I was hired as a contractor to develop a web-application capable of ranking candidates to job postings.
               </p>
               <ul class="list-unstyled mt-5">
                 <li class="py-2">
                   <div class="d-flex align-items-center">
                     <badge type="success" circle class="mr-3" icon="ni ni-settings-gear-65"></badge>
-                    <h6 class="mb-0">MVP built on Java EE, MySQL, AWS</h6>
+                    <h6 class="mb-0">MVP built with Java EE, MySQL, AWS</h6>
                   </div>
                 </li>
                 <li class="py-2">

@@ -20,7 +20,7 @@
             </div>
           </div>
           <div class="col-md-12 order-md-1">
-            <div class="px-md-5 text-justify">
+            <div class="px-md-5 text-center">
               <p>Here is a video of me talking about ... myself! If you are here you really liked me and I hope we can talk soon.</p>              
             </div>
           </div>

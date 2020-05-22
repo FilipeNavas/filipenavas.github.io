@@ -53,10 +53,14 @@
                 Filipe Navas
                 <span class="font-weight-light">, {{profile.age}}</span>
               </h3>
-              <div class="h6 font-weight-300">
+              <div class="h6 font-weight-600 mb-0">
                 <i class="fa fa-map-marker mr-2"></i>
-                {{profile.city}}
-              </div>
+                {{profile.location}} 
+              </div>          
+              <div class="h6 font-weight-100">  
+                <i class="fa fa-id-card-o mr-2"></i>
+                {{profile.visaStatus}}
+              </div>             
               <div class="h6 mt-4">
                 <i class="fa fa-briefcase mr-2"></i>
                 {{profile.title}}
@@ -87,12 +91,13 @@
                 <div class="col-lg-9">
                   <h4>Welcome to my personal website.</h4>
                   <p>
-                    Here I want to showcase some of my projects and show a little more about me that you may have not seen yet on my résumé.
-                    Please scroll down to see more.
+                    Here I want to showcase some of my projects and show a little more about me that you may have not seen yet on my résumé.                    
                   </p>
+                  <b>Scroll down to see more <i class="fa fa-chevron-down"></i></b>
                 </div>
               </div>
             </div>
+            
           </div>
         </card>
       </div>
@@ -108,7 +113,9 @@ export default {
     return {
       profile: {
         age: new Date().getFullYear() - 1993,
-        city: "Vancouver, BC - Canada",
+        location: "Vancouver, BC - Canada",
+        visaStatus: "Permanent Resident 🇨🇦",
+        jobStatus: "Actively Looking", // "Just browsing", "Happily Employed"
         title: 'Software Engineer, AWS Solutions Architect, Startup Founder',
         education: {
           school: "IFSP - Federal Institute of Technology of Sao Paulo",

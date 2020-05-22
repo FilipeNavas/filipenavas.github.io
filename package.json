@@ -1,8 +1,7 @@
 {
-  "name": "vue-argon-design-system",
+  "name": "filipe-website",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://filipenavas.github.io",
+  "private": true,  
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
