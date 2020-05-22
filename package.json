@@ -2,11 +2,14 @@
   "name": "vue-argon-design-system",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://filipenavas.github.io",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "gh-pages-deploy": "node scripts/gh-pages-deploy.js"
+    "gh-pages-deploy": "node scripts/gh-pages-deploy.js",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b master -d dist"
   },
   "dependencies": {
     "bootstrap-vue": "^2.0.4",
@@ -24,9 +27,10 @@
     "@vue/cli-plugin-eslint": "^3.4.0",
     "@vue/cli-plugin-pwa": "^3.4.0",
     "@vue/cli-service": "^3.4.0",
+    "execa": "latest",
+    "gh-pages": "^2.2.0",
     "node-sass": "^4.11.0",
     "sass-loader": "^7.1.0",
-    "vue-template-compiler": "^2.6.6",
-    "execa": "latest"
+    "vue-template-compiler": "^2.6.6"
   }
 }
