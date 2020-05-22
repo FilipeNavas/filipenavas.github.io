@@ -5,6 +5,7 @@ const execa = require("execa");
     try {
       await execa("git", ["fetch"]);
       await execa("git", ["checkout", "-f", "master"]);
+      await execa("git", ["merge", "--ff", "development"]);      
       console.log("Building...");
       await execa("npm", ["run", "build"]);
       // Understand if it's dist or build folder
