@@ -109,7 +109,7 @@ export default {
       profile: {
         age: new Date().getFullYear() - 1993,
         city: "Vancouver, BC - Canada",
-        title: 'Startup Founder, Software Engineer, AWS Solutions Architect',
+        title: 'Software Engineer, AWS Solutions Architect, Startup Founder',
         education: {
           school: "IFSP - Federal Institute of Technology of Sao Paulo",
           program: "Internet Systems"
