@@ -20,12 +20,12 @@ self.__precacheManifest = [
     "url": "/fonts/nucleo-icons.42643978.woff2"
   },
   {
-    "revision": "f82ec6ba2dc4181db2af35c499462840",
-    "url": "/fonts/nucleo-icons.f82ec6ba.ttf"
-  },
-  {
     "revision": "2569aaea6eaaf8cd210db7f2fa016743",
     "url": "/fonts/nucleo-icons.2569aaea.woff"
+  },
+  {
+    "revision": "f82ec6ba2dc4181db2af35c499462840",
+    "url": "/fonts/nucleo-icons.f82ec6ba.ttf"
   },
   {
     "revision": "46abbc4a676739dbd61f8a305cb63fd8",
@@ -36,12 +36,12 @@ self.__precacheManifest = [
     "url": "/fonts/fontawesome-webfont.af7ae505.woff2"
   },
   {
-    "revision": "674f50d287a8c48dc19ba404d20fe713",
-    "url": "/fonts/fontawesome-webfont.674f50d2.eot"
-  },
-  {
     "revision": "fee66e712a8a08eef5805a46892932ad",
     "url": "/fonts/fontawesome-webfont.fee66e71.woff"
+  },
+  {
+    "revision": "674f50d287a8c48dc19ba404d20fe713",
+    "url": "/fonts/fontawesome-webfont.674f50d2.eot"
   },
   {
     "revision": "b06871f281fee6b241d60582ae9369b9",
@@ -56,12 +56,12 @@ self.__precacheManifest = [
     "url": "/index.html"
   },
   {
-    "revision": "185288d13ed8e9d745bd279ea34667bf",
-    "url": "/img/brand/blue.png"
-  },
-  {
     "revision": "63767d2f7465b4f1b45bb7378174bcb9",
     "url": "/favicon.png"
+  },
+  {
+    "revision": "185288d13ed8e9d745bd279ea34667bf",
+    "url": "/img/brand/blue.png"
   },
   {
     "revision": "c85c75275c0a0a617f9e5accc2700908",
@@ -92,16 +92,16 @@ self.__precacheManifest = [
     "url": "/img/theme/filipe-profile.jpg"
   },
   {
+    "revision": "7789b5bfa57722dd8916b1b9ff1b1d37",
+    "url": "/img/theme/img-2-1200x1000.jpg"
+  },
+  {
     "revision": "fd4a34d026fb9e0f4867188d47b11ba8",
     "url": "/img/theme/img-1-1200x1000.jpg"
   },
   {
     "revision": "dc49ad52655e1d9d0552c026db3ef688",
     "url": "/img/theme/landing.jpg"
-  },
-  {
-    "revision": "7789b5bfa57722dd8916b1b9ff1b1d37",
-    "url": "/img/theme/img-2-1200x1000.jpg"
   },
   {
     "revision": "ae42fa0ab85745a5a949e0e3c4ff12fc",
@@ -120,12 +120,12 @@ self.__precacheManifest = [
     "url": "/img/theme/team-1-800x800.jpg"
   },
   {
-    "revision": "be997d5226b992ffad34816870c6b7aa",
-    "url": "/img/theme/team-2-800x800.jpg"
-  },
-  {
     "revision": "54e3f3c414bd8e7234bae3ee3be950e5",
     "url": "/img/theme/team-3-800x800.jpg"
+  },
+  {
+    "revision": "be997d5226b992ffad34816870c6b7aa",
+    "url": "/img/theme/team-2-800x800.jpg"
   },
   {
     "revision": "66618a418175ddf2ac8c47a241d327a8",

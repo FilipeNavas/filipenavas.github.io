@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.7dc0e6bbd0fc60f2cd92bb8a3b7f9d72.js"
+  "/precache-manifest.c512b24bfa2999624772f79186442738.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "filipe-website"});
