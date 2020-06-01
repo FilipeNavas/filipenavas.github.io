@@ -3,12 +3,12 @@
 Welcome to my personal website repository. This website showcases a little bit about myself and my experience.
 
 
-Access the website [here](https://filipenavas.github.io/).
+->>> Access the website [here](https://filipenavas.github.io/).
 
 ## Usage
 
 ```java
-public class MyResume{
+public class Filipe{
   public static void main(String[] args){
 
     if(hired){
