@@ -39,4 +39,7 @@
     $("body").scrollspy({
         target: "#sideNav",
     });
+
+    $(".age").text(parseInt(new Date().getFullYear() - 1993));
+
 })(jQuery); // End of use strict
